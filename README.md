@@ -4,6 +4,16 @@
 <br>
 <h2>A few recent eeleases and pieces in non chronological order</h2>
 <br>
+<a href="https://svbkvlt.bandcamp.com/album/sideproject-live-2022-2023" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sideproject live 2022-2023</a> 
+<br>
+production and electronics
+<br>
+label: SVBKVLT
+<br>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4001405782/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/sideproject-live-2022-2023">sideproject live 2022 - 2023 by sideproject</a></iframe>
+
+
+<br>
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
 <br>
 production and electronics
