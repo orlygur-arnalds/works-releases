@@ -5,7 +5,8 @@
 <h2>A few recent eeleases and pieces in non chronological order</h2>
 <br>
 <a href="https://svbkvlt.bandcamp.com/album/sideproject-live-2022-2023](https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair
-" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sideproject live 2022-2023</a> 
+" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Örlygur Steinar Arnalds - Eleven Fragments for Self Repair
+</a> 
 <br>
 produced, mixed and mastered
 <br>
