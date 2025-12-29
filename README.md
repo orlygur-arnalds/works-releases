@@ -1,9 +1,12 @@
+
+
 <body style="background-color:DarkKhaki;">
 
 <h1>Still updateing this page</h1>
+
+<h2><a href="https://orlygur-arnalds.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">homepage</a>
 <br>
 <h2>A few recent eeleases and pieces in non chronological order</h2>
-
 <a href="https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Örlygur Steinar Arnalds - Eleven Fragments for Self Repair
 
 <br>
@@ -112,6 +115,9 @@ From these experiments I created soound blocks and notated it similar to some sc
 <br>
 <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1323094045%3Fsecret_token%3Ds-ORJvjpURIE7&color=%23949494&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rlygur-steinar-arnalds" title="Ölli" target="_blank" style="color: #cccccc; text-decoration: none;">Ölli</a> · <a href="https://soundcloud.com/rlygur-steinar-arnalds/try3/s-ORJvjpURIE7" title="Try3" target="_blank" style="color: #cccccc; text-decoration: none;">Try3</a></div>
 <br>
+
+
+
 
 
 
