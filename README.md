@@ -5,7 +5,7 @@
 <h2>A few recent eeleases and pieces in non chronological order</h2>
 
 <a href="https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Örlygur Steinar Arnalds - Eleven Fragments for Self Repair
-</a> 
+
 <br>
 produced, mixed and mastered
 <br>
@@ -14,8 +14,9 @@ label: Self Repair
 <br><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1218872344/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://selfrepair.bandcamp.com/album/eleven-fragments-for-self-repair">Eleven Fragments for Self Repair by Örlygur Steinar Arnalds</a></iframe>
 </a> 
 <br>
-
 <br>
+
+
 <a href="https://svbkvlt.bandcamp.com/album/sideproject-live-2022-2023" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sideproject live 2022-2023</a> 
 <br>
 production and electronics
@@ -24,7 +25,7 @@ label: SVBKVLT
 <br>
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4001405782/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/sideproject-live-2022-2023">sideproject live 2022 - 2023 by sideproject</a></iframe>
 
-
+<br>
 <br>
 <a href="https://svbkvlt.bandcamp.com/album/sourcepond" style="color: black; text-decoration: underline;text-decoration-style: dotted;">sideproject - sourcepond</a> 
 <br>
